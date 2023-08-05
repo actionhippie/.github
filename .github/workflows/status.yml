@@ -3,9 +3,6 @@ name: status
 
 "on":
   workflow_dispatch:
-  push:
-    branches:
-      - master
   schedule:
     - cron:  "30 5 * * *"
 
