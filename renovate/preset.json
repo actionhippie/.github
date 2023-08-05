@@ -11,7 +11,8 @@
     "regexManagers": [
         {
             "fileMatch": [
-                "Dockerfile"
+                "(^|/|\\.)([Dd]ocker|[Cc]ontainer)file$",
+                "(^|/)([Dd]ocker|[Cc]ontainer)file[^/]*$"
             ],
             "matchStrings": [
                 "# renovate: datasource=(?<datasource>\\S+) depName=(?<depName>\\S+)( versioning=(?<versioning>.*?))?\nENV .*?_VERSION=(?<currentValue>.*)"
