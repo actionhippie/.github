@@ -22,17 +22,8 @@
         {
             "description": "Build tool version upgrades",
             "groupName": "build tools",
-            "matchPackageNames": [
-                "actions/checkout",
-                "cycjimmy/semantic-release-action",
-                "docker/build-push-action",
-                "docker/login-action",
-                "docker/metadata-action",
-                "docker/setup-buildx-action",
-                "docker/setup-qemu-action",
-                "EndBug/add-and-commit",
-                "nowactions/update-majorver",
-                "ruby/setup-ruby"
+            "matchManagers": [
+                "github-actions"
             ],
             "semanticCommitType": "ci",
             "semanticCommitScope": "tools",
@@ -41,18 +32,6 @@
         {
             "description": "Strip v prefix from versions",
             "groupName": "version prefix",
-            "excludePackageNames": [
-                "actions/checkout",
-                "cycjimmy/semantic-release-action",
-                "docker/build-push-action",
-                "docker/login-action",
-                "docker/metadata-action",
-                "docker/setup-buildx-action",
-                "docker/setup-qemu-action",
-                "EndBug/add-and-commit",
-                "nowactions/update-majorver",
-                "ruby/setup-ruby"
-            ],
             "matchDatasources": [
                 "github-releases"
             ],
@@ -60,7 +39,7 @@
         },
         {
             "description": "Semantic commits for major updates",
-            "groupName": "major updates",
+            "groupName": "major versions",
             "matchUpdateTypes": [
                 "major"
             ],
@@ -70,7 +49,7 @@
         },
         {
             "description": "Semantic commits for minor updates",
-            "groupName": "minor updates",
+            "groupName": "minor versions",
             "matchUpdateTypes": [
                 "minor"
             ],
@@ -80,7 +59,7 @@
         },
         {
             "description": "Semantic commits for patch updates",
-            "groupName": "patch updates",
+            "groupName": "patch versions",
             "matchUpdateTypes": [
                 "patch"
             ],
@@ -90,7 +69,7 @@
         },
         {
             "description": "Automerge docker version updates",
-            "groupName": "docker updates",
+            "groupName": "docker versions",
             "matchDatasources": [
                 "docker"
             ],
