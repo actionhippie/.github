@@ -24,5 +24,8 @@
 ## pushrm
 [![docker build](https://github.com/actionhippie/pushrm/actions/workflows/docker.yml/badge.svg)](https://github.com/actionhippie/pushrm/actions/workflows/docker.yml) [![release build](https://github.com/actionhippie/pushrm/actions/workflows/release.yml/badge.svg)](https://github.com/actionhippie/pushrm/actions/workflows/release.yml)
 
+## swap-space
+[![release build](https://github.com/actionhippie/swap-space/actions/workflows/release.yml/badge.svg)](https://github.com/actionhippie/swap-space/actions/workflows/release.yml) [![testing build](https://github.com/actionhippie/swap-space/actions/workflows/testing.yml/badge.svg)](https://github.com/actionhippie/swap-space/actions/workflows/testing.yml)
+
 ## yamllint
 [![docker build](https://github.com/actionhippie/yamllint/actions/workflows/docker.yml/badge.svg)](https://github.com/actionhippie/yamllint/actions/workflows/docker.yml) [![release build](https://github.com/actionhippie/yamllint/actions/workflows/release.yml/badge.svg)](https://github.com/actionhippie/yamllint/actions/workflows/release.yml)
