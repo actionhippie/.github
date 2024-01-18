@@ -12,6 +12,9 @@
 ## gpgsign
 [![docker build](https://github.com/actionhippie/gpgsign/actions/workflows/docker.yml/badge.svg)](https://github.com/actionhippie/gpgsign/actions/workflows/docker.yml) [![release build](https://github.com/actionhippie/gpgsign/actions/workflows/release.yml/badge.svg)](https://github.com/actionhippie/gpgsign/actions/workflows/release.yml)
 
+## install-packwiz
+[![release build](https://github.com/actionhippie/install-packwiz/actions/workflows/release.yml/badge.svg)](https://github.com/actionhippie/install-packwiz/actions/workflows/release.yml) [![testing build](https://github.com/actionhippie/install-packwiz/actions/workflows/testing.yml/badge.svg)](https://github.com/actionhippie/install-packwiz/actions/workflows/testing.yml)
+
 ## kubectl
 [![docker build](https://github.com/actionhippie/kubectl/actions/workflows/docker.yml/badge.svg)](https://github.com/actionhippie/kubectl/actions/workflows/docker.yml) [![release build](https://github.com/actionhippie/kubectl/actions/workflows/release.yml/badge.svg)](https://github.com/actionhippie/kubectl/actions/workflows/release.yml)
 
