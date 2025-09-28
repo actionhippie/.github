@@ -7,6 +7,9 @@ name: status
   schedule:
     - cron:  "30 5 * * *"
 
+permissions:
+  contents: read
+
 jobs:
   status:
     runs-on: ubuntu-latest
