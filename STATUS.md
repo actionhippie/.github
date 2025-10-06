@@ -27,6 +27,12 @@
 ## pushrm
 [![docker build](https://github.com/actionhippie/pushrm/actions/workflows/docker.yml/badge.svg)](https://github.com/actionhippie/pushrm/actions/workflows/docker.yml) [![flake build](https://github.com/actionhippie/pushrm/actions/workflows/flake.yml/badge.svg)](https://github.com/actionhippie/pushrm/actions/workflows/flake.yml) [![release build](https://github.com/actionhippie/pushrm/actions/workflows/release.yml/badge.svg)](https://github.com/actionhippie/pushrm/actions/workflows/release.yml)
 
+## setup-kind
+[![flake build](https://github.com/actionhippie/setup-kind/actions/workflows/flake.yml/badge.svg)](https://github.com/actionhippie/setup-kind/actions/workflows/flake.yml) [![release build](https://github.com/actionhippie/setup-kind/actions/workflows/release.yml/badge.svg)](https://github.com/actionhippie/setup-kind/actions/workflows/release.yml) [![testing build](https://github.com/actionhippie/setup-kind/actions/workflows/testing.yml/badge.svg)](https://github.com/actionhippie/setup-kind/actions/workflows/testing.yml)
+
+## setup-kubebuilder
+[![flake build](https://github.com/actionhippie/setup-kubebuilder/actions/workflows/flake.yml/badge.svg)](https://github.com/actionhippie/setup-kubebuilder/actions/workflows/flake.yml) [![release build](https://github.com/actionhippie/setup-kubebuilder/actions/workflows/release.yml/badge.svg)](https://github.com/actionhippie/setup-kubebuilder/actions/workflows/release.yml) [![testing build](https://github.com/actionhippie/setup-kubebuilder/actions/workflows/testing.yml/badge.svg)](https://github.com/actionhippie/setup-kubebuilder/actions/workflows/testing.yml)
+
 ## swap-space
 [![flake build](https://github.com/actionhippie/swap-space/actions/workflows/flake.yml/badge.svg)](https://github.com/actionhippie/swap-space/actions/workflows/flake.yml) [![release build](https://github.com/actionhippie/swap-space/actions/workflows/release.yml/badge.svg)](https://github.com/actionhippie/swap-space/actions/workflows/release.yml) [![testing build](https://github.com/actionhippie/swap-space/actions/workflows/testing.yml/badge.svg)](https://github.com/actionhippie/swap-space/actions/workflows/testing.yml)
 
