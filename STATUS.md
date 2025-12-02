@@ -3,6 +3,9 @@
 ## ansible-doctor
 [![docker build](https://github.com/actionhippie/ansible-doctor/actions/workflows/docker.yml/badge.svg)](https://github.com/actionhippie/ansible-doctor/actions/workflows/docker.yml) [![flake build](https://github.com/actionhippie/ansible-doctor/actions/workflows/flake.yml/badge.svg)](https://github.com/actionhippie/ansible-doctor/actions/workflows/flake.yml) [![release build](https://github.com/actionhippie/ansible-doctor/actions/workflows/release.yml/badge.svg)](https://github.com/actionhippie/ansible-doctor/actions/workflows/release.yml)
 
+## ansible-galaxy
+[![docker build](https://github.com/actionhippie/ansible-galaxy/actions/workflows/docker.yml/badge.svg)](https://github.com/actionhippie/ansible-galaxy/actions/workflows/docker.yml) [![flake build](https://github.com/actionhippie/ansible-galaxy/actions/workflows/flake.yml/badge.svg)](https://github.com/actionhippie/ansible-galaxy/actions/workflows/flake.yml) [![release build](https://github.com/actionhippie/ansible-galaxy/actions/workflows/release.yml/badge.svg)](https://github.com/actionhippie/ansible-galaxy/actions/workflows/release.yml)
+
 ## ansible-later
 [![docker build](https://github.com/actionhippie/ansible-later/actions/workflows/docker.yml/badge.svg)](https://github.com/actionhippie/ansible-later/actions/workflows/docker.yml) [![flake build](https://github.com/actionhippie/ansible-later/actions/workflows/flake.yml/badge.svg)](https://github.com/actionhippie/ansible-later/actions/workflows/flake.yml) [![release build](https://github.com/actionhippie/ansible-later/actions/workflows/release.yml/badge.svg)](https://github.com/actionhippie/ansible-later/actions/workflows/release.yml)
 
