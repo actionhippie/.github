@@ -69,6 +69,27 @@
       "automerge": true
     },
     {
+      "description": "Automerge mise tool updates",
+      "matchManagers": [
+        "mise"
+      ],
+      "semanticCommitType": "deps",
+      "semanticCommitScope": "mise",
+      "automerge": true
+    },
+    {
+      "matchManagers": [
+        "mise"
+      ],
+      "matchDatasources": [
+        "ruby-version"
+      ],
+      "minimumReleaseAge": "14 days",
+      "internalChecksFilter": "strict",
+      "prCreation": "not-pending",
+      "recreateWhen": "always"
+    },
+    {
       "description": "Automerge docker digest updates",
       "groupName": "docker digests",
       "matchDatasources": [
